@@ -6,7 +6,10 @@ We have not programmed this app to collect any personally identifiable informati
 
 If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
-Yours sincerely,
+Yours sincerely, 
+
 S. Jansen,
+
 F. Haver
+
 tcm.food.encyclopedia@gmail.com
