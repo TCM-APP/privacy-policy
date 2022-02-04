@@ -8,8 +8,6 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Yours sincerely, 
 
-S. Jansen,
+S. Jansen and F. Haver
 
-F. Haver
-
-tcm.food.encyclopedia@gmail.com
+Contact: tcm.food.encyclopedia@gmail.com
