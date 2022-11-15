@@ -1,4 +1,4 @@
-Welcome to the TCM Food Encyclopedia for Android.
+Welcome to the TCM Food Encyclopedia.
 
 The developers of this app take privacy very seriously.
 
